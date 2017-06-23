@@ -2,6 +2,5 @@ Repository for ROSCpp/Robotics in ROS practise. Everyday I'll add a source file 
 
 1. [Publisher Subcriber OOP style](https://github.com/karanchawla/ROSPractise/tree/master/src/PubSubNodes)
 2. [Line following using differential drive robot](https://github.com/karanchawla/ROSPractise/tree/master/src/callisto_linefollower)
-
 ![Linefollow](https://github.com/karanchawla/ROSPractise/blob/master/src/callisto_linefollower/images/linefollow.jpg)
-
+3. [Line Features with Split and Merge]
