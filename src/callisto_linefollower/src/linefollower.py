@@ -12,7 +12,7 @@ class Follower:
 
   def __init__(self):
     self.bridge = CvBridge()
-    self.image_sub = rospy.Subscriber('callisto/camera1/image_raw',
+    self.image_sub = rospy.Subscriber('camera/image_raw',
                                       Image, self.image_callback)
     self.cmd_vel_pub = rospy.Publisher('cmd_vel',
                                        Twist, queue_size=1)
